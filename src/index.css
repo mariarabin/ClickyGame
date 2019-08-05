@@ -1,12 +1,15 @@
+div{
+  color: brown;
+  background: whitesmoke;
+  font-size: 80px;
+}
 * {
   box-sizing: border-box;
   font-family: sans-serif;
-  background: lightgoldenrodyellow;
+  background: whitesmoke;
 }
 
 html, body, #root {
-  padding: 0;
-  margin: 0;
   height: 100%;
-  background: blue;
+  background: whitesmoke;
 }

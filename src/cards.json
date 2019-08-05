@@ -1,92 +1,92 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
+      "name": "frog",
       "image": "https://i.imgur.com/vKb4qnUb.jpg",
       "count": 0
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
+      "name": "wolf",
       "image": "https://i.imgur.com/9eyPJjAb.jpg",
       "count": 0
     },
     {
       "id": 3,
-      "name": "Squidward",
+      "name": "husky",
       "image": "https://i.imgur.com/bmoTDZRb.jpg",
       "count": 0
     },
     {
       "id": 4,
-      "name": "Dexter",
+      "name": "bears",
       "image": "https://i.imgur.com/PbK2aWcb.jpg",
       "count": 0
     },
     {
       "id": 5,
-      "name": "Courage",
+      "name": "tiger",
       "image": "https://i.imgur.com/kJezbugb.jpg",
       "count": 0
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
+      "name": "lion",
       "image": "https://i.imgur.com/mhIiptrb.jpg",
       "count": 0
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
+      "name": "grumpy cat",
       "image": "https://i.imgur.com/7izX17zb.jpg",
       "count": 0
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
+      "name": "rodent",
       "image": "https://i.imgur.com/bfJxyvob.jpg",
       "count": 0
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
+      "name": "cat",
       "image": "https://i.imgur.com/Ry2cqc5b.jpg",
       "count": 0
     },
     {
       "id": 10,
-      "name": "Rocko",
+      "name": "dog",
       "image": "https://i.imgur.com/EcQFognb.jpg",
       "count": 0
     },
     {
       "id": 11,
-      "name": "Captain Planet",
+      "name": "seal",
       "image": "https://i.imgur.com/N7MHEQBb.jpg",
       "count": 0
     },
     {
       "id": 12,
-      "name": "Ickis",
+      "name": "squirrel",
       "image": "https://i.imgur.com/U612WxEb.jpg",
       "count": 0
     },
     {
       "id": 13,
-      "name": "Rocko",
+      "name": "pup",
       "image": "https://i.imgur.com/EcQFognb.jpg",
       "count": 0
     },
     {
       "id": 14,
-      "name": "Captain Planet",
-      "image": "https://i.imgur.com/N7MHEQBb.jpg",
+      "name": "gator",
+      "image": "https://i.imgur.com/D1pEdWeb.jpg",
       "count": 0
     },
     {
       "id": 15,
-      "name": "Ickis",
-      "image": "https://i.imgur.com/U612WxEb.jpg",
+      "name": "penguin cat",
+      "image": "https://i.imgur.com/jofriC7b.jpg",
       "count": 0
     }
   ]
